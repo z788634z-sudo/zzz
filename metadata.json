@@ -1,0 +1,7 @@
+{
+  "name": "Group Chat Energy Decoder",
+  "description": "Upload chat screenshots to decode social dynamics, power structures, and hidden emotions using AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
